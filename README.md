@@ -73,6 +73,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - A sync solution that combines CloudKit and Multipeer Connectivity or Watch Connectivity, so that sync is instantaneous when devices are nearby. ([@stevenpotato](https://twitter.com/stevenpotato))
 - Improved support in NSPersistentCloudKitContainer for scheduling background uploads, improving the reliability of saving to CloudKit when used in an app extension (Josh Hrach)
 - AVFoundation to support display and capture of additional video channels beyond Red, Green and Blue: Such as Alpha and Depth (Alex ‘4D’ Gollner)
+- A modern successor to Quartz Composer
 
 ### Xcode
 - Xcode for iPad
